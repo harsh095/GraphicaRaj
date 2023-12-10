@@ -49,7 +49,7 @@ GraphicaRaj is a comprehensive business management and social platform designed 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/graphicaraj.git
+    git clone https://github.com/harsh095/GraphicaRaj.git
     ```
 
 2. Navigate to the project folder:
